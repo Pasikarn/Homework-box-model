@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.notice {
+  border: 2px solid #2563eb;
+  max-width: 480px;
+  background: #eff6ff;
+  margin: 0 auto;
+  padding: 20px 24px;
+}
+
+.notice_title {
+  color: #1d4ed8;
+  margin-bottom: 8px;
+}
+
+.notice_body {
+  color: #1e3a8a;
+  margin-top: 8px;
+}
